@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-07T18:21:21 IST" name="Default suite" finished-at="2024-08-07T18:21:35 IST" duration-ms="13815">
+    <groups>
+    </groups>
+    <test started-at="2024-08-07T18:21:21 IST" name="Default test" finished-at="2024-08-07T18:21:35 IST" duration-ms="13815">
+      <class name="test.ValidateHomePage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.ValidateHomePage@1ea9f6af]" started-at="2024-08-07T18:21:21 IST" name="setUp" finished-at="2024-08-07T18:21:21 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="test(java.lang.reflect.Method)[pri:0, instance:test.ValidateHomePage@1ea9f6af]" started-at="2024-08-07T18:21:21 IST" name="test" finished-at="2024-08-07T18:21:32 IST" duration-ms="10660" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.ValidateHomePage.validateDashBoardPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="validateDashBoardPage()[pri:0, instance:test.ValidateHomePage@1ea9f6af]" started-at="2024-08-07T18:21:32 IST" name="validateDashBoardPage" finished-at="2024-08-07T18:21:32 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDashBoardPage -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.ValidateHomePage@1ea9f6af]" started-at="2024-08-07T18:21:32 IST" name="afterTest" finished-at="2024-08-07T18:21:33 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="test(java.lang.reflect.Method)[pri:0, instance:test.ValidateHomePage@1ea9f6af]" started-at="2024-08-07T18:21:33 IST" name="test" finished-at="2024-08-07T18:21:35 IST" duration-ms="2235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.ValidateHomePage.validateHomePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="validateHomePage()[pri:0, instance:test.ValidateHomePage@1ea9f6af]" started-at="2024-08-07T18:21:35 IST" name="validateHomePage" finished-at="2024-08-07T18:21:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.ValidateHomePage@1ea9f6af]" started-at="2024-08-07T18:21:35 IST" name="afterTest" finished-at="2024-08-07T18:21:35 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.ValidateHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

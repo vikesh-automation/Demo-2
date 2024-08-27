@@ -1,0 +1,37 @@
+/* Styles for the test steps */
+.step-status {
+    font-weight: bold;
+}
+
+.pass {
+    color: green;
+}
+
+.fail {
+    color: red;
+}
+
+.skip {
+    color: orange;
+}
+
+/* Styles for the overall report */
+.report-name {
+    color: blue;
+}
+
+.report-status {
+    font-weight: bold;
+}
+
+.pass-count {
+    color: green;
+}
+
+.fail-count {
+    color: red;
+}
+
+.skip-count {
+    color: orange;
+}
